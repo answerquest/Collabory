@@ -1,7 +1,5 @@
-#Concept note - detail (pls see the accompanying ppt first)
-
-##Name
-Looking for one!
+#Concept note - detail 
+Note: pls see the accompanying ppt first
 
 ##Most basic requirement
 We need a website that opens up a PDF into its individual pages, and lets people post their comments for every page.
